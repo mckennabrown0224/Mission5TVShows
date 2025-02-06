@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zz9Nx0S4ddo=",
+  "success": true,
+  "projectFilePath": "/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/Mission5TVShows.csproj",
+  "expectedPackageFiles": [
+    "/Users/kenna/.nuget/packages/jquery/3.7.1/jquery.3.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
