@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission5TVShows")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28ab7396db76e91af885aafd7f35501b120ba29c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission5TVShows")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission5TVShows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

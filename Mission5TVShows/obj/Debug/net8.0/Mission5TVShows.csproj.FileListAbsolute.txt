@@ -54,3 +54,4 @@
 /Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.pdb
 /Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.genruntimeconfig.cache
 /Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/ref/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.sourcelink.json
