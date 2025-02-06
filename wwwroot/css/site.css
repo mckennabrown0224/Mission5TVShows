@@ -1,0 +1,178 @@
+/* CSS for all views */
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #f4f7fc;
+    color: #333;
+    margin: 0;
+}
+
+.header-container {
+    background-color: #ffffff;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.header-container h1 {
+    font-size: 3rem;
+    color: #4e73df;
+    margin: 0;
+}
+
+.header-container h4 {
+    font-size: 1.3rem;
+    color: #555;
+    margin-top: 10px;
+}
+
+/* Bootstrap Navbar Customization */
+.navbar {
+    background-color: #4e73df;
+    padding: 15px 0;
+}
+
+.navbar-nav {
+    list-style-type: none; /* Removes the dots */
+    display: flex; /* Aligns items in a row */
+    justify-content: center; /* Centers the navbar items horizontally */
+    padding-left: 0;
+    margin-bottom: 0;
+    width: 100%; /* Ensures the navbar items take up full width */
+    text-align: center; /* Makes sure the links are centered */
+}
+
+.navbar-nav .nav-item {
+    margin: 0 15px; /* Adds spacing between items */
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff !important;
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding: 10px 20px; /* Adds padding around the links */
+}
+
+.navbar-nav .nav-link:hover, .navbar-nav .nav-link.active {
+    background-color: #2e59d9;
+    border-radius: 5px;
+}
+
+.content-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.btn-primary {
+    background-color: #4e73df;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #2e59d9;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #ffffff;
+    margin-top: 30px;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    font-size: 0.9rem;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px; /* Space between images */
+    margin-top: 20px;
+}
+
+.image-container img {
+    width: 300px; /* Adjust as needed */
+    height: 200px; /* Keeps consistency */
+    object-fit: cover; /* Ensures images are cropped properly */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-container img:hover {
+    transform: scale(1.05);
+}
+
+.estimate-container {
+    max-width: 500px;
+    margin: 50px auto; /* Centers the form */
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.estimate-container h1 {
+    font-size: 2rem;
+    color: #4e73df;
+    margin-bottom: 20px;
+}
+
+.estimate-container label {
+    font-weight: bold;
+    display: block;
+    margin-top: 15px;
+}
+
+.estimate-container input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.estimate-container input[readonly] {
+    background-color: #f8f9fc;
+    font-weight: bold;
+}
+
+#calculateBtn {
+    width: 100%;
+    padding: 10px;
+    background-color: #4e73df;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#calculateBtn:hover {
+    background-color: #2e59d9;
+}
+
+#totalCost {
+    font-weight: bold;
+    color: #333;
+}
+
+a.back-home {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #4e73df;
+    font-size: 1.1rem;
+    transition: color 0.3s;
+}
+
+a.back-home:hover {
+    color: #2e59d9;
+}
