@@ -1,0 +1,57 @@
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/bin/Debug/net8.0/appsettings.Development.json
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/bin/Debug/net8.0/appsettings.json
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.staticwebassets.runtime.json
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.deps.json
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.runtimeconfig.json
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.pdb
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.AssemblyInfoInputs.cache
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.AssemblyInfo.cs
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.csproj.CoreCompileInputs.cache
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.MvcApplicationPartsAssemblyInfo.cache
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.RazorAssemblyInfo.cache
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.RazorAssemblyInfo.cs
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/staticwebassets.build.json
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/staticwebassets.development.json
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/staticwebassets/msbuild.Mission5TVShows.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/staticwebassets/msbuild.build.Mission5TVShows.props
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Mission5TVShows.props
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Mission5TVShows.props
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/scopedcss/bundle/Mission5TVShows.styles.css
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/refint/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.pdb
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.genruntimeconfig.cache
+/Users/kenna/Desktop/IS413/MyFirstASPNETEmptyProjectFun copy/Mission5TVShows/obj/Debug/net8.0/ref/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/bin/Debug/net8.0/appsettings.Development.json
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/bin/Debug/net8.0/appsettings.json
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.staticwebassets.runtime.json
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.deps.json
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.runtimeconfig.json
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/bin/Debug/net8.0/Mission5TVShows.pdb
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.AssemblyInfoInputs.cache
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.AssemblyInfo.cs
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.csproj.CoreCompileInputs.cache
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.MvcApplicationPartsAssemblyInfo.cache
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.RazorAssemblyInfo.cache
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.RazorAssemblyInfo.cs
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/staticwebassets.build.json
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/staticwebassets.development.json
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/staticwebassets/msbuild.Mission5TVShows.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/staticwebassets/msbuild.build.Mission5TVShows.props
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Mission5TVShows.props
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Mission5TVShows.props
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/scopedcss/bundle/Mission5TVShows.styles.css
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/refint/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.pdb
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.genruntimeconfig.cache
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/ref/Mission5TVShows.dll
+/Users/kenna/Desktop/IS413/Mission5TVShows/Mission5TVShows/obj/Debug/net8.0/Mission5TVShows.sourcelink.json
